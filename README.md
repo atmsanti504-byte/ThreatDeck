@@ -4,138 +4,106 @@
   <img src="docs/ThreatDeck Logo.png" alt="ThreatDeck Logo" width="300"/>
 </p>
 
-> A cybersecurity intelligence dashboard designed to collect, organize, visualize, and analyze security-related information in one unified workspace.
+> A personal cybersecurity intelligence dashboard that collects, organizes, and analyzes security information from multiple sources in one centralized platform.
 
-## Overview
+## What is ThreatDeck?
 
-ThreatDeck is an open-source cybersecurity dashboard project focused on providing security professionals, students, and cybersecurity enthusiasts with a centralized platform for monitoring threats, analyzing security data, and improving situational awareness.
+ThreatDeck is a cybersecurity news and threat intelligence dashboard designed to bring information from different security sources into one unified workspace.
 
-The goal of ThreatDeck is to transform scattered security information into an organized, understandable, and actionable view.
+Instead of manually monitoring multiple websites, blogs, vulnerability databases, and security feeds, ThreatDeck aims to provide a single platform where users can follow the latest cybersecurity developments, vulnerabilities, and technologies of interest.
 
-## Features
+## Why was ThreatDeck created?
 
-### Current Development
+The cybersecurity field changes rapidly, with new vulnerabilities, security research, incidents, and technologies being discussed across many different platforms every day.
 
-- Dashboard-based security overview
-- Modular project architecture
-- Security data visualization
-- Threat tracking capabilities
-- Documentation-driven development
+Keeping up with this information can become overwhelming when it is spread across numerous sources.
 
-### Planned Features
+ThreatDeck was created to solve this problem by creating a centralized cybersecurity information hub that collects relevant security data, organizes it, and presents it in an easy-to-understand dashboard.
 
-- Threat intelligence feed integration
-- Vulnerability tracking
-- Security analytics
-- Custom dashboards
-- Automated reporting
-- Plugin and module support
-
-## Project Goals
+## Goals
 
 ThreatDeck aims to:
 
-- Make cybersecurity information easier to understand
-- Create a practical learning platform for cybersecurity concepts
-- Develop real-world security engineering experience
-- Build a flexible foundation for future security tools
+- Centralize cybersecurity news and threat intelligence from multiple sources
+- Provide a personalized dashboard for monitoring security developments
+- Allow users to track technologies and topics of interest
+- Improve visibility into vulnerabilities, CVEs, and emerging threats
+- Create a foundation for future security analysis and automation features
 
-## Project Structure
+## Planned Features
 
-```
-ThreatDeck
-│
-├── docs/              # Project documentation
-├── src/               # Application source code
-├── tests/             # Automated tests
-├── configs/           # Configuration files
-├── assets/            # Images and resources
-└── README.md
-```
+### Cybersecurity News Aggregation
 
-## Documentation
+- Collect security articles and updates from multiple sources
+- Automatically update feeds periodically
+- Prioritize recent and relevant security stories
+- Display cybersecurity information through a centralized dashboard
 
-Detailed documentation can be found in the `docs` directory.
+### Technology Tracking
 
-Available documentation:
+Users will be able to follow technologies and topics they are interested in.
 
-- Project architecture
-- Development guidelines
-- Design decisions
-- Future planning
+Examples:
 
-## Getting Started
+- iOS security
+- Cloud security
+- Linux vulnerabilities
+- Web application security
 
-### Requirements
+Tracked technologies will provide a personalized feed of related news, vulnerabilities, and research.
 
-- Git
-- Development environment
-- Required dependencies (coming soon)
+### Vulnerability Intelligence
 
-### Installation
+ThreatDeck will integrate vulnerability information from sources such as CVE databases.
 
-Clone the repository:
+Planned functionality:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/ThreatDeck.git
-```
+- CVE tracking
+- Severity classification
+- Vulnerability statistics
+- Technology vulnerability trends
+- Historical vulnerability analysis
 
-Move into the project directory:
+### Security Dashboard
 
-```bash
-cd ThreatDeck
-```
+A dashboard providing insights such as:
 
-Install dependencies:
+- Latest security news
+- Vulnerability trends
+- Most affected technologies
+- Severity breakdowns
+- Monthly security summaries
 
-```bash
-# Installation instructions coming soon
-```
+### Account Security Monitoring
 
-Run the application:
+Integration with services such as Have I Been Pwned could allow users to:
 
-```bash
-# Startup instructions coming soon
-```
+- Monitor account exposure
+- Receive reminders to check account security
+- Improve personal security awareness
 
-## Development
+### Article Viewing and Analysis
 
-ThreatDeck follows a documentation-first and modular development approach.
+ThreatDeck aims to provide:
 
-Development principles:
+- Native article viewing inside the platform
+- AI-assisted summaries of security articles
+- Faster understanding of complex security topics
 
-- Clean and maintainable code
-- Security-focused design
-- Clear documentation
-- Reproducible workflows
+### Vulnerability Analysis Lab
 
-## Roadmap
+A future feature allowing users to:
 
-### Phase 1 — Foundation
+- Analyze vulnerabilities
+- Create personal vulnerability assessments
+- Compare predictions against official CVE severity scores
+- Learn from vulnerability research workflows
 
-- [x] Repository structure
-- [x] Documentation framework
-- [ ] Initial architecture design
+## Project Status
 
-### Phase 2 — Core Platform
+ThreatDeck is currently in the planning and development phase.
 
-- [ ] Dashboard interface
-- [ ] Backend services
-- [ ] Database structure
-- [ ] Core security modules
-
-### Phase 3 — Security Intelligence
-
-- [ ] Threat intelligence integration
-- [ ] Vulnerability management
-- [ ] Analytics system
-- [ ] Reporting features
-
-### Phase 4 — Expansion
-
-- [ ] Plugin system
-- [ ] Automation features
-- [ ] Community contributions
+The current focus is designing the architecture and building the foundation for a scalable cybersecurity intelligence platform.
 
 ## Contributing
 

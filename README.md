@@ -20,24 +20,35 @@ Keeping up with this information can become overwhelming when it is spread acros
 
 ThreatDeck was created to solve this problem by creating a centralized cybersecurity information hub that collects relevant security data, organizes it, and presents it in an easy-to-understand dashboard.
 
+The goal is to transform scattered cybersecurity information into meaningful intelligence.
+
+
 ## Goals
 
 ThreatDeck aims to:
 
 - Centralize cybersecurity news and threat intelligence from multiple sources
-- Provide a personalized dashboard for monitoring security developments
+- Reduce information overload by organizing security information in one place
 - Allow users to track technologies and topics of interest
 - Improve visibility into vulnerabilities, CVEs, and emerging threats
-- Create a foundation for future security analysis and automation features
+- Create relationships between security events, threat actors, campaigns, and techniques
+- Provide a foundation for future security analysis and automation features
 
 ## Planned Features
 
 ### Cybersecurity News Aggregation
 
+The foundation of ThreatDeck.
+
+Planned features:
+
 - Collect security articles and updates from multiple sources
 - Automatically update feeds periodically
 - Prioritize recent and relevant security stories
 - Display cybersecurity information through a centralized dashboard
+- Allow users to view articles without leaving the platform
+
+---
 
 ### Technology Tracking
 
@@ -52,6 +63,8 @@ Examples:
 
 Tracked technologies will provide a personalized feed of related news, vulnerabilities, and research.
 
+---
+
 ### Vulnerability Intelligence
 
 ThreatDeck will integrate vulnerability information from sources such as CVE databases.
@@ -64,6 +77,14 @@ Planned functionality:
 - Technology vulnerability trends
 - Historical vulnerability analysis
 
+Example insights:
+
+- Which technologies received the most vulnerabilities this month?
+- Which vulnerabilities are critical?
+- How do vulnerability trends change over time?
+
+---
+
 ### Security Dashboard
 
 A dashboard providing insights such as:
@@ -73,22 +94,34 @@ A dashboard providing insights such as:
 - Most affected technologies
 - Severity breakdowns
 - Monthly security summaries
+- Weekly intelligence reports
+
+---
 
 ### Account Security Monitoring
 
 Integration with services such as Have I Been Pwned could allow users to:
 
 - Monitor account exposure
-- Receive reminders to check account security
-- Improve personal security awareness
+- Receive security check reminders
+- Improve personal account security awareness
 
-### Article Viewing and Analysis
+---
+
+### Article Analysis and AI Assistance
 
 ThreatDeck aims to provide:
 
-- Native article viewing inside the platform
 - AI-assisted summaries of security articles
 - Faster understanding of complex security topics
+- Intelligent searching across collected security information
+
+Future examples:
+
+- "Show me recent iOS vulnerabilities affecting financial organizations."
+- "Which threat actors have used phishing campaigns recently?"
+
+---
 
 ### Vulnerability Analysis Lab
 
@@ -98,6 +131,76 @@ A future feature allowing users to:
 - Create personal vulnerability assessments
 - Compare predictions against official CVE severity scores
 - Learn from vulnerability research workflows
+
+---
+
+### Threat Actor Intelligence
+
+A future intelligence module focused on understanding threat groups and their activities.
+
+Possible profiles:
+
+- Lazarus Group
+- APT29
+- APT28
+- Volt Typhoon
+- Scattered Spider
+
+Information could include:
+
+- Known aliases
+- Motivations
+- Target industries
+- Geographic focus
+- Common techniques
+- Malware and tooling
+- Recent activity
+
+---
+
+### Campaign Tracking
+
+ThreatDeck aims to move beyond collecting individual articles by connecting information into security campaigns.
+
+Example:
+
+**Campaign: Operation DreamJob**
+
+Connected information:
+
+- Threat actor
+- Malware
+- Vulnerabilities
+- Attack techniques
+- Related articles
+- Indicators of compromise
+
+This allows security information to be viewed as historical intelligence rather than isolated reports.
+
+---
+
+### MITRE ATT&CK Integration
+
+Future integration with the MITRE ATT&CK framework.
+
+Possible features:
+
+- Technique explorer
+- Threat actor technique mapping
+- Campaign analysis
+- Security research relationships
+
+Example:
+
+**T1566 - Phishing**
+
+Associated groups:
+
+- Lazarus
+- APT29
+- FIN7
+
+---
 
 ## Project Status
 

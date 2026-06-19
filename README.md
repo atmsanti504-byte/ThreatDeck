@@ -201,6 +201,43 @@ Associated groups:
 - FIN7
 
 ---
+## Development Roadmap
+
+### Phase 1 — Intelligence Foundation
+
+- Cybersecurity news aggregation
+- RSS/feed ingestion
+- Dashboard interface
+- Technology favorites
+- Article organization
+
+### Phase 2 — Vulnerability Intelligence
+
+- CVE database integration
+- Vulnerability tracking
+- Severity analysis
+- Security trend reports
+
+### Phase 3 — Research Assistance
+
+- AI article summaries
+- Weekly intelligence reports
+- Analyst prediction lab
+- Vulnerability analysis workspace
+
+### Phase 4 — Threat Intelligence Expansion
+
+- Threat actor profiles
+- ATT&CK mapping
+- Campaign tracking
+- Sector intelligence dashboards
+
+### Phase 5 — Advanced Intelligence
+
+- IOC repository
+- Knowledge graphs
+- Relationship visualization
+- AI-powered intelligence analysis
 
 ## Project Status
 

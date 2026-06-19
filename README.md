@@ -203,7 +203,7 @@ Associated groups:
 ---
 ## Development Roadmap
 
-### Phase 1 — Intelligence Foundation
+### Phase 1 — Intelligence Foundation ⏳ To-Do
 
 - Cybersecurity news aggregation
 - RSS/feed ingestion
@@ -211,28 +211,28 @@ Associated groups:
 - Technology favorites
 - Article organization
 
-### Phase 2 — Vulnerability Intelligence
+### Phase 2 — Vulnerability Intelligence ⏳ To-Do
 
 - CVE database integration
 - Vulnerability tracking
 - Severity analysis
 - Security trend reports
 
-### Phase 3 — Research Assistance
+### Phase 3 — Research Assistance ⏳ To-Do
 
 - AI article summaries
 - Weekly intelligence reports
 - Analyst prediction lab
 - Vulnerability analysis workspace
 
-### Phase 4 — Threat Intelligence Expansion
+### Phase 4 — Threat Intelligence Expansion ⏳ To-Do
 
 - Threat actor profiles
 - ATT&CK mapping
 - Campaign tracking
 - Sector intelligence dashboards
 
-### Phase 5 — Advanced Intelligence
+### Phase 5 — Advanced Intelligence ⏳ To-Do
 
 - IOC repository
 - Knowledge graphs
